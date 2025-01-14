@@ -1,0 +1,1 @@
+This project studies the effect of transitioning to Shall-Carry Guns Law from May-Carry Law in 51 US States during 1977-1999 on the violent crime rate. Bayesian data workflow is utilized to analyze such effect.
